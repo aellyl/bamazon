@@ -6,11 +6,11 @@ WebDev Bootcamp week 12 homework - Bamazon
 Here is the demo video of Bamazon app
 
 * Customer operation demonstration
-    * [Watch the demo](CustomerOp.mov)
+    * [Watch the customer operations demo video](CustomerOp.mov)
 
 * Manager operation demonstration
-    * [Watch the demo](ManagerOp.mov)
+    * [Watch the manager operations demo video](ManagerOp.mov)
 
 * Supervisor operation demonstration
-    * [Watch the demo](SupervisorOp.mov)
+    * [Watch the supervisor operations demo video](SupervisorOp.mov)
 
